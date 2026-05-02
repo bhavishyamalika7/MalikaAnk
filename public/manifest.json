@@ -1,0 +1,17 @@
+{
+  "name": "Odia-Hindi Kavita",
+  "short_name": "OdiaKavita",
+  "description": "Odia to Hindi Poem Translator with Offline Transliteration",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5F5F0",
+  "theme_color": "#5A5A40",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3898/3898082.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
